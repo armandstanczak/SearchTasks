@@ -1,6 +1,6 @@
 package searchtasks;
 
-public class Task001_BinarySearchSorted {
+public class Task001_BinarySearch {
     
     public static void main(String[] args) {
         

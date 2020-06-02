@@ -2,7 +2,7 @@ package searchtasks;
 
 import java.util.Arrays;
 
-public class Task003_JumpSearchSorted {
+public class Task003_JumpSearch {
 
     public static void main(String[] args) {
         
@@ -38,6 +38,6 @@ public class Task003_JumpSearchSorted {
         if (a[index] == value) {
             return index;
         }
-        return -11;
+        return -1;
     }
 }
