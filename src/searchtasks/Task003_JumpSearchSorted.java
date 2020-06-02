@@ -38,6 +38,6 @@ public class Task003_JumpSearchSorted {
         if (a[index] == value) {
             return index;
         }
-        return -1;
+        return -11;
     }
 }
